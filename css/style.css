@@ -1,0 +1,40 @@
+body{
+    background:linear-gradient(120deg,#33697d,#d04ada) !important;
+    
+    position: sticky;
+    top: 0;
+
+}
+.section-2{
+    height: 100% !important;
+}
+.section-2 p{
+    color:#bbcbd2;
+    font-size: 15px;
+}
+.section-3{
+    background-color: #fff;
+}
+.text{
+    font-size: 13px;
+
+}
+.section-6 input[type=text]{
+    background-color: #4c637d !important ;
+    border:white 1px solid !important;
+    ;
+}
+.section-6 input[type=email]{
+    background-color: #4c637d !important ;
+    border:white 1px solid !important;
+    ;
+}
+.section-6 textarea{
+    background-color: #4c637d !important ;
+    border:white 1px solid !important;
+    ;
+}
+
+
+
+
